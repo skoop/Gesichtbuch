@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/DeveloperGarden/Response
+END
+BaseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/DeveloperGarden/Response/BaseType.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/DeveloperGarden/Response/Exception.php
+END
+ResponseAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/DeveloperGarden/Response/ResponseAbstract.php
+END

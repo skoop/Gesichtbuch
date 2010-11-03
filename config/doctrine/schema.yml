@@ -1,0 +1,26 @@
+gbFriend:
+  actAs: [Timestampable]
+  columns:
+    user_id:
+      type: integer
+    friend_id:
+      type: integer
+  relations:
+    User:
+      class: sfGuardUser
+      local: user_id
+    Friend:
+      class: sfGuardUser
+      local: friend_id
+
+gbUpdate:
+  actAs: [Timestampable]
+  columns:
+    user_id:
+      type: integer
+    content:
+      type: string(1000)
+  relations:
+    User:
+      class: sfGuardUser
+      local: user_id

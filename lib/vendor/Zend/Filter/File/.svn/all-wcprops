@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Filter/File
+END
+Decrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Filter/File/Decrypt.php
+END
+Encrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Filter/File/Encrypt.php
+END
+LowerCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Filter/File/LowerCase.php
+END
+Rename.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Filter/File/Rename.php
+END
+UpperCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Filter/File/UpperCase.php
+END

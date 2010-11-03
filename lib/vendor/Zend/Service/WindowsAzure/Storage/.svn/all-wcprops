@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage
+END
+DynamicTableEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/DynamicTableEntity.php
+END
+QueueInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/QueueInstance.php
+END
+QueueMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/QueueMessage.php
+END
+BatchStorageAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/BatchStorageAbstract.php
+END
+TableEntityQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/TableEntityQuery.php
+END
+SignedIdentifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/SignedIdentifier.php
+END
+TableInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/TableInstance.php
+END
+Blob.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/Blob.php
+END
+Batch.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/Batch.php
+END
+BlobContainer.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/BlobContainer.php
+END
+BlobInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/BlobInstance.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/Queue.php
+END
+TableEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/TableEntity.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/WindowsAzure/Storage/Table.php
+END

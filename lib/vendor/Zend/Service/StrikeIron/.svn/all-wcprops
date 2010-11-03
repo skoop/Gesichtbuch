@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/StrikeIron
+END
+ZipCodeInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/StrikeIron/ZipCodeInfo.php
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/StrikeIron/Base.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/StrikeIron/Exception.php
+END
+USAddressVerification.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/StrikeIron/USAddressVerification.php
+END
+Decorator.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/StrikeIron/Decorator.php
+END
+SalesUseTaxBasic.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/StrikeIron/SalesUseTaxBasic.php
+END

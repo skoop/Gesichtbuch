@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Json/Server
+END
+Error.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Json/Server/Error.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Json/Server/Exception.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Json/Server/Response.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Json/Server/Cache.php
+END
+Smd.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Json/Server/Smd.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Json/Server/Request.php
+END

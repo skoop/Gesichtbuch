@@ -1,0 +1,123 @@
+10
+
+dir
+7214
+http://repos.enrise.com/svn/4106-Nederlands%20dagblad/trunk/library/Zend/Feed/Reader/Extension
+http://repos.enrise.com/svn
+
+
+
+2010-08-16T15:02:45.061786Z
+6352
+tpater
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+317ccd4c-6b34-0410-924f-f0004c2b7d44
+
+Atom
+dir
+
+Syndication
+dir
+
+DublinCore
+dir
+
+Thread
+dir
+
+Content
+dir
+
+Slash
+dir
+
+EntryAbstract.php
+file
+
+
+
+
+2010-09-29T14:23:45.000000Z
+3bac9d82ec324e58e2421ff32b566f16
+2010-08-16T15:02:45.061786Z
+6352
+tpater
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4622
+
+Podcast
+dir
+
+FeedAbstract.php
+file
+
+
+
+
+2010-09-29T14:23:45.000000Z
+3c6ad3b9d21ed351f7a01e3bb7e13365
+2010-08-16T15:02:45.061786Z
+6352
+tpater
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4041
+
+CreativeCommons
+dir
+
+WellFormedWeb
+dir
+

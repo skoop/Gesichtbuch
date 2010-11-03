@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Auth/Storage
+END
+NonPersistent.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Auth/Storage/NonPersistent.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Auth/Storage/Exception.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Auth/Storage/Interface.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Auth/Storage/Session.php
+END

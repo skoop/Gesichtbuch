@@ -1,0 +1,9 @@
+Gesichtbuch
+===========
+
+The code in this project is used in a one-day workshop about the symfony framework, first given at the Symfony Day Cologne 2010 conference. The code is rough at the edges, since it is the result of explanations of the concepts of the framework. 
+
+State
+-----
+
+The state of this project is simple: It is here as a reference. Possibly, at some point I may take some time to make the edges a bit less rough, but I publish it mainly as is for reference purposes.

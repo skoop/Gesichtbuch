@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/OpenId
+END
+Provider.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/OpenId/Provider.php
+END
+Consumer.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/OpenId/Consumer.php
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/OpenId/Extension.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/OpenId/Exception.php
+END

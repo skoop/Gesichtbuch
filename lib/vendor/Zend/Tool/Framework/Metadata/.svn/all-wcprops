@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Tool/Framework/Metadata
+END
+Tool.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Tool/Framework/Metadata/Tool.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Tool/Framework/Metadata/Interface.php
+END
+Basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Tool/Framework/Metadata/Basic.php
+END
+Attributable.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Tool/Framework/Metadata/Attributable.php
+END
+Dynamic.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Tool/Framework/Metadata/Dynamic.php
+END

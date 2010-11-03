@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Db/Profiler
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Db/Profiler/Exception.php
+END
+Firebug.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Db/Profiler/Firebug.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Db/Profiler/Query.php
+END

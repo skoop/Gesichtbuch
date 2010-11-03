@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Calendar
+END
+ListEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Calendar/ListEntry.php
+END
+ListFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Calendar/ListFeed.php
+END
+EventEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Calendar/EventEntry.php
+END
+EventFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Calendar/EventFeed.php
+END
+EventQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Calendar/EventQuery.php
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon
+END
+ResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/ResultSet.php
+END
+Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/Item.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/Exception.php
+END
+EditorialReview.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/EditorialReview.php
+END
+Offer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/Offer.php
+END
+SimilarProduct.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/SimilarProduct.php
+END
+Accessories.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/Accessories.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/Abstract.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/Query.php
+END
+Sqs.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/Sqs.php
+END
+Ec2.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/Ec2.php
+END
+OfferSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/OfferSet.php
+END
+ListmaniaList.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/ListmaniaList.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/Image.php
+END
+CustomerReview.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/CustomerReview.php
+END
+S3.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/Amazon/S3.php
+END

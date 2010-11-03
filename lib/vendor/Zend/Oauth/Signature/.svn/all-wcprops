@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Oauth/Signature
+END
+Rsa.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Oauth/Signature/Rsa.php
+END
+SignatureAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Oauth/Signature/SignatureAbstract.php
+END
+Hmac.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Oauth/Signature/Hmac.php
+END
+Plaintext.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Oauth/Signature/Plaintext.php
+END

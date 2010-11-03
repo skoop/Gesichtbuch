@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Paginator
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Paginator/Exception.php
+END
+SerializableLimitIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Paginator/SerializableLimitIterator.php
+END
+AdapterAggregate.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Paginator/AdapterAggregate.php
+END

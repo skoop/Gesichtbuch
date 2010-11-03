@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/ReCaptcha
+END
+MailHide.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/ReCaptcha/MailHide.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/ReCaptcha/Exception.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Service/ReCaptcha/Response.php
+END

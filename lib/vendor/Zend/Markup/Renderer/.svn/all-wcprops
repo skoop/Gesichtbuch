@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Markup/Renderer
+END
+TokenConverterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Markup/Renderer/TokenConverterInterface.php
+END
+RendererAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Markup/Renderer/RendererAbstract.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Markup/Renderer/Exception.php
+END
+Html.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Markup/Renderer/Html.php
+END

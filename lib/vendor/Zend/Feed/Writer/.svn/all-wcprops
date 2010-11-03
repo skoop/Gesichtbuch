@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Feed/Writer
+END
+Source.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Feed/Writer/Source.php
+END
+Entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Feed/Writer/Entry.php
+END
+Feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Feed/Writer/Feed.php
+END
+Deleted.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Feed/Writer/Deleted.php
+END

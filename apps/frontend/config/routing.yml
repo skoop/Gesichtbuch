@@ -1,0 +1,35 @@
+gb_update:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                gbUpdate
+    module:               gb_update
+    prefix_path:          /gb_update
+    column:               id
+    with_wildcard_routes: true
+
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+api_updates:
+  url:    /api/:action.:sf_format
+  param:  { module: api }
+  requirements:
+    sf_format: (?:xml|json)
+
+# default rules
+homepage:
+  url:   /
+  param: { module: updates, action: index }
+
+profile:
+  url:  /:username
+  param:  { module: profile, action: index }
+
+# generic rules
+# please, remove them by adding more specific rules
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*

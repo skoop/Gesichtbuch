@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Ldap/Node/Schema/ObjectClass
+END
+ActiveDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Ldap/Node/Schema/ObjectClass/ActiveDirectory.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Ldap/Node/Schema/ObjectClass/Interface.php
+END
+OpenLdap.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Ldap/Node/Schema/ObjectClass/OpenLdap.php
+END

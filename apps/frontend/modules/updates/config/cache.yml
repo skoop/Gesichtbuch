@@ -1,0 +1,4 @@
+_list:
+  enabled: true
+  lifetime: 5
+  with_layout: false

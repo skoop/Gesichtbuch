@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Search/Lucene/Storage/File
+END
+Filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Search/Lucene/Storage/File/Filesystem.php
+END
+Memory.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Search/Lucene/Storage/File/Memory.php
+END

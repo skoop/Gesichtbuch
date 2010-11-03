@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Pdf/Color
+END
+GrayScale.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Pdf/Color/GrayScale.php
+END
+Rgb.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Pdf/Color/Rgb.php
+END
+Cmyk.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Pdf/Color/Cmyk.php
+END
+Html.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Pdf/Color/Html.php
+END

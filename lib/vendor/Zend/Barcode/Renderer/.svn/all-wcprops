@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Barcode/Renderer
+END
+Pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Barcode/Renderer/Pdf.php
+END
+RendererAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Barcode/Renderer/RendererAbstract.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Barcode/Renderer/Exception.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Barcode/Renderer/Image.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Search/Lucene/Analysis/TokenFilter
+END
+LowerCaseUtf8.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Search/Lucene/Analysis/TokenFilter/LowerCaseUtf8.php
+END
+ShortWords.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Search/Lucene/Analysis/TokenFilter/ShortWords.php
+END
+LowerCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Search/Lucene/Analysis/TokenFilter/LowerCase.php
+END
+StopWords.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Search/Lucene/Analysis/TokenFilter/StopWords.php
+END

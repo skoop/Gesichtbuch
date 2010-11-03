@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Photos
+END
+PhotoEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Photos/PhotoEntry.php
+END
+PhotoFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Photos/PhotoFeed.php
+END
+TagEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Photos/TagEntry.php
+END
+PhotoQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Photos/PhotoQuery.php
+END
+UserEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Photos/UserEntry.php
+END
+AlbumEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Photos/AlbumEntry.php
+END
+UserFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Photos/UserFeed.php
+END
+AlbumFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Photos/AlbumFeed.php
+END
+CommentEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Photos/CommentEntry.php
+END
+UserQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Photos/UserQuery.php
+END
+AlbumQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Photos/AlbumQuery.php
+END

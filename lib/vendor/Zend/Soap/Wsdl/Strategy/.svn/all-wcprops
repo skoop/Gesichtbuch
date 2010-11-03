@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Soap/Wsdl/Strategy
+END
+AnyType.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Soap/Wsdl/Strategy/AnyType.php
+END
+ArrayOfTypeComplex.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Soap/Wsdl/Strategy/ArrayOfTypeComplex.php
+END
+ArrayOfTypeSequence.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Soap/Wsdl/Strategy/ArrayOfTypeSequence.php
+END
+DefaultComplexType.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Soap/Wsdl/Strategy/DefaultComplexType.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Soap/Wsdl/Strategy/Interface.php
+END
+Composite.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Soap/Wsdl/Strategy/Composite.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Soap/Wsdl/Strategy/Abstract.php
+END

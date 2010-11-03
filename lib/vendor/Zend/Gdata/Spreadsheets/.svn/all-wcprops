@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Spreadsheets
+END
+SpreadsheetEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Spreadsheets/SpreadsheetEntry.php
+END
+SpreadsheetFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Spreadsheets/SpreadsheetFeed.php
+END
+ListEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Spreadsheets/ListEntry.php
+END
+WorksheetEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Spreadsheets/WorksheetEntry.php
+END
+ListFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Spreadsheets/ListFeed.php
+END
+WorksheetFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Spreadsheets/WorksheetFeed.php
+END
+CellEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Spreadsheets/CellEntry.php
+END
+ListQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Spreadsheets/ListQuery.php
+END
+CellFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Spreadsheets/CellFeed.php
+END
+DocumentQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Spreadsheets/DocumentQuery.php
+END
+CellQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Gdata/Spreadsheets/CellQuery.php
+END

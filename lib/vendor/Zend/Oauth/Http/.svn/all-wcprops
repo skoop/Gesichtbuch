@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Oauth/Http
+END
+RequestToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Oauth/Http/RequestToken.php
+END
+UserAuthorization.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Oauth/Http/UserAuthorization.php
+END
+AccessToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Oauth/Http/AccessToken.php
+END
+Utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6352/4106-Nederlands%20dagblad/trunk/library/Zend/Oauth/Http/Utility.php
+END
